@@ -1,0 +1,12 @@
+{
+    "name": "eywek/obsifight",
+    "description": "Many libs for obsifight",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Eywek",
+            "email": "contact@eywek.fr"
+        }
+    ],
+    "require": {}
+}
